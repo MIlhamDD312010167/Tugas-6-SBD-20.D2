@@ -18,8 +18,19 @@
 ![B5](https://user-images.githubusercontent.com/106169328/172031805-16511153-1431-4fe6-8000-a2a33f1b4518.png)
 ![B6](https://user-images.githubusercontent.com/106169328/172031809-6ac11e9c-6355-49e3-afd1-58beaebd5414.png)
 
+# Screenshot Langkah-langkah Cronjob dengan Task Scheduler
+![C1](https://user-images.githubusercontent.com/106169328/172032411-8ec2dbbd-ff38-4da6-9cfd-5f706b8a3e44.png)
+![C2](https://user-images.githubusercontent.com/106169328/172032416-ec2fb91f-2fa9-49c0-8e20-f92b21feea9a.png)
+![C3](https://user-images.githubusercontent.com/106169328/172032420-baadb468-4463-4143-9ec6-ab42d03fc27e.png)
+![C4](https://user-images.githubusercontent.com/106169328/172032429-15ced6c0-3223-4a3c-a946-323b4ac8f390.png)
+![C5](https://user-images.githubusercontent.com/106169328/172032434-3d634973-3f70-4579-86c5-39cd710bf85f.png)
+![C6](https://user-images.githubusercontent.com/106169328/172032435-2bad1288-d760-4b7e-96f3-dd03fedc2834.png)
+![C7](https://user-images.githubusercontent.com/106169328/172032440-9657b1d3-549f-4666-9869-1373cee97122.png)
+![C8](https://user-images.githubusercontent.com/106169328/172032446-0e9663e0-020c-42a3-95e3-67f5ec233626.png)
+![C9](https://user-images.githubusercontent.com/106169328/172032450-b66d6f48-0aca-4819-bddc-6076460682f5.png)
+
 # Direktori File Backup 
 ![file backup_berobat](https://user-images.githubusercontent.com/106169328/172031853-7ff5dffe-8283-4e6d-9cd3-b89567503868.png)
 ![file backup2 sql](https://user-images.githubusercontent.com/106169328/172031859-f8640c38-cd6a-44e8-9bb9-9bb59fa94aa5.png)
+![file backup_cronjob](https://user-images.githubusercontent.com/106169328/172032403-c24d7dd8-8fac-4bdd-97d5-7614a5f9463e.png)
 
-# Screenshot Langkah-langkah Cronjob
