@@ -30,7 +30,10 @@
 ![C9](https://user-images.githubusercontent.com/106169328/172032450-b66d6f48-0aca-4819-bddc-6076460682f5.png)
 
 # Direktori File Backup 
+Foto backup_berobat
 ![file backup_berobat](https://user-images.githubusercontent.com/106169328/172031853-7ff5dffe-8283-4e6d-9cd3-b89567503868.png)
+Foto backup2.sql
 ![file backup2 sql](https://user-images.githubusercontent.com/106169328/172031859-f8640c38-cd6a-44e8-9bb9-9bb59fa94aa5.png)
+backup_cronjob
 ![file backup_cronjob](https://user-images.githubusercontent.com/106169328/172032403-c24d7dd8-8fac-4bdd-97d5-7614a5f9463e.png)
 
